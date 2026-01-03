@@ -3,7 +3,6 @@
     "extends": [
         "group:recommended",
         ":dependencyDashboard",
-        ":pinVersions",
         ":prHourlyLimitNone"
     ],
     "lockFileMaintenance": {
