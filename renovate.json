@@ -4,5 +4,9 @@
         "group:recommended",
         ":dependencyDashboard",
         ":pinVersions"
-    ]
+    ],
+    "lockFileMaintenance": {
+        "enabled": true,
+        "schedule": ["* * * * *"]
+    }
 }
