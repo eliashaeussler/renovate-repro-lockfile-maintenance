@@ -1,6 +1,6 @@
 {
     "require": {
-        "php": "~8.4.0",
+        "php": "~8.5.0",
         "symfony/flex": "^2.9"
     },
     "config": {
